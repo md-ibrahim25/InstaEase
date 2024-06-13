@@ -5,21 +5,13 @@ This is a compelete web application project built using html,css,bootstrap,javas
 User:
 
 1.First of all the user can go through the products added by different sellers.
-
 2. The user will need to signup/register to order product of his/her choice.
-
 3. On signup the user is required to attach a copy of his/her idcard, an electricity bill and some basic information required to identify and reach a person incase of any scam
-
 4. Once the user submitted a request the admin will recieve the request and verify the infomation provided and then approve or reject based on his decision.
-
 5. Once user is approved he/she can login and order anything listed.
-
 6. There will different installment plans e.g 3 months,6 months,12 months etc added by the admin.
-
 7. A user can manage his orders, view order history.
-
 8. A user can manage his profile.
-
 9. A user can manage cart like other e-commerce websites.
 
 Seller:
