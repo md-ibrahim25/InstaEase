@@ -1,4 +1,4 @@
-# e_installment
+# InstaEase
  
 This is a compelete web application project built using html,css,bootstrap,javasccript,PHP(core) and mysql.This project mainly focusses on installments widely used now a days.The users of this project can buy different products of their choice following multiple installment plans.There are four main roles in this project admin,seller,rider,buyer or user.
 
