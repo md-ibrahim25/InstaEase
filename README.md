@@ -1,17 +1,18 @@
-# e_installment
+# InstaEase
  
 This is a compelete web application project built using html,css,bootstrap,javasccript,PHP(core) and mysql.This project mainly focusses on installments widely used now a days.The users of this project can buy different products of their choice following multiple installment plans.There are four main roles in this project admin,seller,rider,buyer or user.
 
 User:
-1.First of all the user can go through the products added by different sellers.
-2. The user will need to signup/register to order product of his/her choice.
-3. On signup the user is required to attach a copy of his/her idcard, an electricity bill and some basic information required to identify and reach a person incase of any scam
-4. Once the user submitted a request the admin will recieve the request and verify the infomation provided and then approve or reject based on his decision.
-5. Once user is approved he/she can login and order anything listed.
-6. There will different installment plans e.g 3 months,6 months,12 months etc added by the admin.
-7. A user can manage his orders, view order history.
-8. A user can manage his profile.
-9. A user can manage cart like other e-commerce websites.
+
+1.First of all the user can go through the products added by different sellers.<br>
+2. The user will need to signup/register to order product of his/her choice.<br>
+3. On signup the user is required to attach a copy of his/her idcard, an electricity bill and some basic information required to identify and reach a person incase of any scam<br>
+4. Once the user submitted a request the admin will recieve the request and verify the infomation provided and then approve or reject based on his decision.<br>
+5. Once user is approved he/she can login and order anything listed.<br>
+6. There will different installment plans e.g 3 months,6 months,12 months etc added by the admin.<br>
+7. A user can manage his orders, view order history.<br>
+8. A user can manage his profile.<br>
+9. A user can manage cart like other e-commerce websites.<br>
 
 Seller:
 1. The registration process of seller is same as the user except a seller have to select the dropdown "Signup as Seller" on registration page by default it will user.
