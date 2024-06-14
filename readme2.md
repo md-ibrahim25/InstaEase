@@ -73,6 +73,6 @@ By leveraging technology to streamline operations and enhance customer service, 
 [Figma link](https://www.figma.com/proto/f3uyI9C5970I7jVgwM1Tcp/INSTAEASE?type=design&node-id=2-51&t=xwDDjJA0rkSXRVLp-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 
-###FlowChart
+###FlowChart: <br>
 ![Screenshot 2024-06-14 100251](https://github.com/md-ibrahim25/InstaEase/assets/152700319/643f099f-c596-4b46-98ab-eac2a6aa7e7b)
 
